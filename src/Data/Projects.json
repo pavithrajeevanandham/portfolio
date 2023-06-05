@@ -1,0 +1,177 @@
+{
+    "name": "Projects",
+    "project_list": [
+        {
+            "id": 0,
+            "title": "Amazon Web Scraper",
+            "intro": "A python web scraper which scrapes amazon product details.",
+            "tool": "Python",
+            "keywords": [
+                "Web Scraper",
+                "Python",
+                "BeautifulSoup"
+            ],
+            "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "full-title": "Amazon Best Selling Books Scraper using Python.",
+            "isnotebook": false,
+            "issql": false,
+            "libraries": "library1, library2, library3",
+            "bg-color": "#ffadad",
+            "skills": [
+                {
+                    "name": "Python",
+                    "icon": "bxl-python"
+                },
+                {
+                    "name": "BeautifulSoup",
+                    "icon": "bx-code-curly"
+                },
+                {
+                    "name": "Pandas",
+                    "icon": "bxl-python"
+                },
+                {
+                    "name": "Requests",
+                    "icon": "bx-code-alt"
+                }
+            ],
+            "details": [
+                {
+                    "sub-title": "The Problem",
+                    "description": "write a python program to scrape all best selling books available in amazon.com"
+                },
+                {
+                    "sub-title": "The Solution",
+                    "description": "This script scrapes amazon best selling books with title, url, category, rank, author, original_price, price and savings_percentage. The result will be saved in csv file. visit the following link for script <br /> https://github.com/vjthatdevgirl/amazon-web-scraper/blob/master/amazon_web_scraper.py"
+                }
+            ],
+            "showcase-images": []
+        },
+        {
+            "id": 1,
+            "title": "Customer Shopping Data Analysis using MS Excel",
+            "intro": "An analysis of the historical data of a malls which sells products was conducted in order to analysis the customer shopping behaviour.",
+            "tool": "Python",
+            "keywords": [
+                "Data Analysis",
+                "MS Excel"
+            ],
+            "image": "https://raw.githubusercontent.com/vjthatdevgirl/customer-shopping-data/master/customer_shopping_data.png",
+            "full-title": "Customer Shopping Data Analysis using MS Excel",
+            "isnotebook": false,
+            "issql": false,
+            "libraries": "library1, library2, library3",
+            "bg-color": "#ffd6a5",
+            "skills": [
+                {
+                    "name": "MS Excel",
+                    "icon": "bx-table"
+                }
+            ],
+            "details": [
+                {
+                    "sub-title": "The Problem",
+                    "images": [],
+                    "description": "Find out the customer shopping behaviour using the historical data of a malls which sells products."
+                },
+                {
+                    "sub-title": "The Solution",
+                    "images": [],
+                    "description": "I've used Microsoft Excel to find the customer shopping behaviour using the historical data of a malls. Please find the insights below."
+                }
+            ],
+            "showcase-images": [
+                "https://raw.githubusercontent.com/vjthatdevgirl/customer-shopping-data/master/results/sales_by_category.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/customer-shopping-data/master/results/customers_by_gender1.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/customer-shopping-data/master/results/payment_methods.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/customer-shopping-data/master/results/payment_methods_by_gender.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/customer-shopping-data/master/results/revenue_by_category.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/customer-shopping-data/master/results/sales_over_year.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/customer-shopping-data/master/results/sales_yearly.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/customer-shopping-data/master/results/top_selling_malls.png"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Zomato Restaurants Data Analysis using SQL",
+            "intro": "An analysis of a Zomato Restaurants using SQL to answer some questions.",
+            "tool": "Python",
+            "keywords": [
+                "Data Analysis",
+                "SQL"
+            ],
+            "image": "https://images.unsplash.com/photo-1662026911591-335639b11db6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1724&q=80",
+            "full-title": "Zomato Restaurants Data Analysis using SQL",
+            "isnotebook": false,
+            "issql": false,
+            "libraries": "library1, library2, library3",
+            "bg-color": "#B6E2A1",
+            "skills": [
+                {
+                    "name": "SQL",
+                    "icon": "bxl-postgresql"
+                }
+            ],
+            "details": [
+                {
+                    "sub-title": "The Problem",
+                    "images": [],
+                    "description": "Answer following questions from zomato restaurants data using sql.<br />\t 1 - How many restaurants are present in each city?<br />\t 2 - Which are the top 10 cities with the highest number of restaurants?<br />\t3 - How does the average cost for two people vary across different cities?<br />\t 4 - What are the top 10 restaurants in a specific city based on average ratings?<br />\t 5 - What are the top 3 countries with the highest number of restaurants?<br /><br /> https://github.com/vjthatdevgirl/portfolio"
+                },
+                {
+                    "sub-title": "The Solution",
+                    "images": [],
+                    "description": ""
+                }
+            ],
+            "showcase-images": [
+                "https://raw.githubusercontent.com/vjthatdevgirl/portfolio/master/assets/zomato-sql-1.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/portfolio/master/assets/zomato-sql-2.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/portfolio/master/assets/zomato-sql-3.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/portfolio/master/assets/zomato-sql-4.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/portfolio/master/assets/zomato-sql-5.png"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Netflix Data Analysis using Python",
+            "intro": "An analysis of a Netflix titles dataset using Python",
+            "tool": "Python",
+            "keywords": [
+                "Data Analysis",
+                "Python"
+            ],
+            "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80",
+            "full-title": "Netflix Data Analysis using Python",
+            "isnotebook": false,
+            "issql": false,
+            "libraries": "library1, library2, library3",
+            "bg-color": "#FDFDBD",
+            "skills": [
+                {
+                    "name": "Python",
+                    "icon": "python"
+                }
+            ],
+            "details": [
+                {
+                    "sub-title": "The Problem",
+                    "images": [],
+                    "description": "Answer following questions from netflix titles dataset using python.<br />\t 1 - What are the top 10 countries with the most movies on Netflix?<br />\t 2 - How has the number of movies on Netflix changed over the years?<br />\t3 - Which directors have the highest number of movies on Netflix?<br />\t 4 - What are the different genres of movies available on Netflix?<br />\t 5 - What is the distribution of movies across different countries in the dataset?<br /><br /> https://github.com/vjthatdevgirl/netflix-eda-using-python/blob/master/Netflix_Dataset_EDA.ipynb"
+                },
+                {
+                    "sub-title": "The Solution",
+                    "images": [],
+                    "description": ""
+                }
+            ],
+            "showcase-images": [
+                "https://raw.githubusercontent.com/vjthatdevgirl/portfolio/master/assets/netflix-eda-1.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/portfolio/master/assets/netflix-eda-2.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/portfolio/master/assets/netflix-eda-3.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/portfolio/master/assets/netflix-eda-4.png",
+                "https://raw.githubusercontent.com/vjthatdevgirl/portfolio/master/assets/netflix-eda-5.png"
+            ]
+        }
+    ]
+}
